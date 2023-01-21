@@ -1,0 +1,20 @@
+{
+    "folders": [
+        {
+            "path": ".",
+            "name": "root"
+        },
+        { 
+            "path": "server",
+            "name": "server"
+        },
+        {
+            "path": "client",
+            "name": "client"
+        },
+        {
+            "path": "shared",
+            "name": "shared"
+        }
+    ],
+}
