@@ -6,6 +6,7 @@ It contains 3 separate projects:
 
 ## shared
 Contains code shared between frontend and backend
+
 Build:
 `npx tsc -b`
 It should be built first in order for the other two projects to have access to it.
