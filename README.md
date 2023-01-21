@@ -16,6 +16,7 @@ Node/Express backend with a placeholder SQLite database
 
 Build:
 `npm run build`
+
 Run:
 `npm start`
 
@@ -24,5 +25,6 @@ create-react-app single page React application
 
 Build:
 `npm run build`
+
 Run:
 `npm start`
